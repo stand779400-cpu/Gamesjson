@@ -1,0 +1,37 @@
+{
+ bypassVersion": 1,
+  "libs": "https://github.com/Mdayaan620/pushpib/releases/download/Online/unrealhax.zip",
+  "gamesList": [
+    {
+      "title": "PUBG GLOBAL",
+      "package": "com.tencent.ig",
+      "version": "3.9.0",
+      "status": "Safe"
+    },
+    {
+      "title": "PUBG KOREA",
+      "package": "com.pubg.krmobile",
+      "version": "3.9.0",
+      "status": "Safe"
+    },
+      {
+        "title": "PUBG VIETNAM",
+        "package": "com.vng.pubgmobile",
+        "version": "3.9.0",
+        "status": "Safe"
+      },
+    {
+      "title": "PUBG INDIA",
+      "package": "com.pubg.imobile",
+      "version": "3.9.0",
+      "status": "Safe"
+    },
+      {
+        "title": "PUBG INDIA",
+        "package": "com.pubg.imobile",
+        "version": "3.9.0",
+        "status": "Safe"
+      }
+  
+  ]
+}
